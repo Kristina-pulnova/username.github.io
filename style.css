@@ -1,0 +1,186 @@
+body {
+font-family: 'Montserrat', sans-serif;
+background-color: #F5F7FA;
+}
+.main-conteiner{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color:#fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* Main section */
+.main-content-section{
+    padding: 100px 90px;
+}
+.main-content-title{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: black;
+margin-bottom: 10px;
+}
+.about-me-section{
+    margin: 0 0 40px 0;
+}
+.about-me-profession{
+font-size: 14px;
+font-weight: 700;
+color: #000;
+line-height: 17px;
+margin-bottom: 20px;
+    
+}
+.about-me-name{
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+color: black;
+margin-bottom: 25px;
+}
+.about-me-description{
+width: 400px;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: grey;
+}
+/* My work experience in IT */
+.my-work-experience-company{
+color: #FB6D3A;
+}
+.my-work-experience-position{
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px; 
+margin: 0 0 10px 0;   
+}
+.my-work-experience-time{
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+margin: 0 0 10px 0; 
+}
+.my-work-experience-divider{
+color: black;    
+}
+.my-work-experience-duties{
+padding: 0 0 0 18px;
+}
+.my-work-experience-duty{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+.my-work-experience-company-block{
+margin: 0 15px 0 0;
+}
+/* About projects section */
+.main-content-section{
+    margin: 0 0 50px 0;
+}
+.my-projects-list{
+padding: 0 0 0 17px;
+}
+.my-projects-item{
+color: gray;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+margin-left: 5px;
+    
+}
+.my-projects-text{
+color: black;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+margin-left: 5px;
+font-weight: bold;
+
+}
+.my-projects-link{
+color: #595959;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+
+}
+/* Sidebarsection */
+
+.sidebar-section{
+background-color: #1E2939;
+width: 370px;
+padding: 40px 0;
+}
+.contacs-section{
+margin: 40px 0 0 40px;
+}
+.tech-skills-section{
+margin: 40px 0 0 40px;   
+
+}
+.soft-skills-section{
+margin: 40px 0 0 40px; 
+}
+.languages-section{
+margin: 40px 0 0 40px; 
+}
+.sidebar-title{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: white;
+margin-bottom: 10px;
+}
+/* Contacssection */
+.contacs-section-type{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: white;
+margin-right: 7px;
+}
+.contacs-section-link{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #727983;
+
+}
+/* Tech-list */
+.tech-section-list {
+padding: 0 0 0 17px;
+
+}
+.soft-skills-list{
+padding: 0 0 0 17px;
+}
+.languages-list{
+padding: 0 0 0 17px;
+}
+.tech-section-item{
+color: orange
+}
+.tech-section-text{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: white;
+}
